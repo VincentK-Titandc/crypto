@@ -21,7 +21,7 @@ import (
 	"os"
 	"strings"
 
-	"golang.org/x/crypto/ssh"
+	"gitlab.titandc.io/go-api/crypto/ssh"
 )
 
 // See the sshd manpage

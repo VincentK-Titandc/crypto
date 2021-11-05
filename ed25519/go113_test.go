@@ -9,7 +9,7 @@ package ed25519_test
 
 import (
 	ed25519std "crypto/ed25519"
-	"golang.org/x/crypto/ed25519"
+	"gitlab.titandc.io/go-api/crypto/ed25519"
 	"testing"
 )
 

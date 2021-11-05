@@ -31,7 +31,7 @@ import (
 	"sync"
 	"time"
 
-	"golang.org/x/crypto/acme"
+	"gitlab.titandc.io/go-api/crypto/acme"
 	"golang.org/x/net/idna"
 )
 

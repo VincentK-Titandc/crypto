@@ -8,7 +8,7 @@ import (
 	"encoding/binary"
 	"hash"
 
-	"golang.org/x/crypto/blake2b"
+	"gitlab.titandc.io/go-api/crypto/blake2b"
 )
 
 // blake2bHash computes an arbitrary long hash value of in

@@ -8,7 +8,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"golang.org/x/crypto/nacl/auth"
+	"gitlab.titandc.io/go-api/crypto/nacl/auth"
 )
 
 func Example() {

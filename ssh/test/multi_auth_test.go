@@ -24,7 +24,7 @@ import (
 	"strings"
 	"testing"
 
-	"golang.org/x/crypto/ssh"
+	"gitlab.titandc.io/go-api/crypto/ssh"
 )
 
 // test cases

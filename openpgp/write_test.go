@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"golang.org/x/crypto/openpgp/packet"
+	"gitlab.titandc.io/go-api/crypto/openpgp/packet"
 )
 
 func TestSignDetached(t *testing.T) {

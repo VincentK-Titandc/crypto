@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"log"
 
-	"golang.org/x/crypto/scrypt"
+	"gitlab.titandc.io/go-api/crypto/scrypt"
 )
 
 func Example() {
